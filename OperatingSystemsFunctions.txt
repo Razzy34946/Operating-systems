@@ -1,0 +1,1 @@
+Operating systems are responsible for starting the computer. This is also known as booting and can be done as a cold or warm boot. A cold boot is when it starts from a point of complete shutdown and a warm boot is when you restart your system while it is powered on.
