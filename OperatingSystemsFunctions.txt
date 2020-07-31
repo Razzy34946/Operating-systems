@@ -1,2 +1,3 @@
 Operating systems are responsible for starting the computer. This is also known as booting and can be done as a cold or warm boot. A cold boot is when it starts from a point of complete shutdown and a warm boot is when you restart your system while it is powered on.
 Operating systems also provide user interface. That means that the operating system determines how you interact with your computer. It is a fairly simple process these days, mostly point and click on icons or menus. 
+Operating systems manage memory. The operating system determines where each part of data is stored. It organizes the data to help retrieve it efficiently.
